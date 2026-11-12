@@ -1,0 +1,9 @@
+{
+  "name": "prexel-markets-free",
+  "version": "1.1.0",
+  "description": "Read delayed Bitcoin research across seven market domains.",
+  "author": { "name": "Prexel", "email": "mcp@prexel.xyz" },
+  "homepage": "https://prexel.xyz/mcp/",
+  "logo": "assets/logo.png",
+  "mcpServers": "mcp.json"
+}
