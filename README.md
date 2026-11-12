@@ -7,7 +7,7 @@ This package connects Cursor to `https://markets.prexel.xyz/mcp/free` and includ
 - `morning-read` builds a dated market overview from captured evidence.
 - `thesis-check` tests a user's stated thesis against supporting and conflicting captured observations.
 
-After the plugin is installed and enabled, ask Cursor to use a skill or invoke `/morning-read` or `/thesis-check`. The assistant may need multiple reads to inspect the requested evidence. It should keep capture and edition IDs separate, report missing or stale inputs, and say when the requested evidence cannot be retrieved.
+After the plugin is installed and enabled, ask Cursor to use a skill or invoke `/morning-read` or `/thesis-check`. The first Synthesis response provides domain readings and selected evidence. The skills expand only what the requested claims need; a scoped answer does not require scanning every signal or reading the Daily Brief. They instruct the assistant to preserve exact predicates, keep capture and edition IDs separate, and distinguish missing evidence from an explanation for a change.
 
 For connection information and support, visit [Prexel Markets MCP](https://prexel.xyz/mcp/) or email mcp@prexel.xyz.
 
