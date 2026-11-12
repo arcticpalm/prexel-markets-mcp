@@ -34,3 +34,15 @@ For a thesis check: “Do Bitcoin positioning and ETF flows support the same rea
 The Synthesis source link is a rolling view and may show a different capture. A returned Daily Brief source link identifies a saved edition. Free captures are retained for follow-ups for up to two hours; an expired capture cannot be reconstructed by silently replacing it.
 
 [Privacy](https://prexel.xyz/privacy/) · [Terms](https://prexel.xyz/terms/) · [Support](https://prexel.xyz/support/)
+
+## Licence and branding
+
+The wrapper configuration, this guide and the workflow skills are available under
+[the MIT licence](LICENSE). This grant does not include the hosted Prexel service,
+private Nexus source, research payloads or third-party market data. Access to the
+service remains subject to [Prexel's terms](https://prexel.xyz/terms/).
+
+Prexel branding, including `assets/logo.png`, is excluded from the MIT grant.
+No rights are granted to imply Prexel affiliation or endorsement of a derivative.
+Separate distribution and brand-use permissions granted to marketplace platforms
+under their publisher terms remain unaffected.
